@@ -218,28 +218,28 @@ nav.container {
     margin-right: 2rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
 .menu ul.truncated-menu {
     display: block;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
 .menu ul {
     display: none;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .main-banner h1 {
     font-size: 1rem;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 header {
     background-position: 20%;
     height: 17rem;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .main-banner {
     padding: 0 1rem;
     margin: 9rem auto 0 auto;
@@ -247,7 +247,7 @@ header {
     text-align: center;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .supporting {
     flex-direction: column;
     align-items: center;
@@ -255,30 +255,30 @@ header {
     margin-top: 3rem;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .info {
     width: auto;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .info p {
     font-size: 0.77rem;
     padding: 1rem;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 .info .title {
     width: 100%;
     max-width: 100%;
     text-align: center;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
 footer {
     justify-content: center;
 }
 
-@media only screen and (max-width: 560px) {
+@media only screen and (max-width: 320px) {
 footer div {
     display: none;
 }
