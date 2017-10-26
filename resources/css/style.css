@@ -218,28 +218,28 @@ nav.container {
     margin-right: 2rem;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 768px) {
 .menu ul.truncated-menu {
     display: block;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 768px) {
 .menu ul {
     display: none;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait) {
 .main-banner h1 {
     font-size: 1rem;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px)  and (orientation: portrait)  {
 header {
     background-position: 20%;
     height: 17rem;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 .main-banner {
     padding: 0 1rem;
     margin: 9rem auto 0 auto;
@@ -247,7 +247,7 @@ header {
     text-align: center;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 .supporting {
     flex-direction: column;
     align-items: center;
@@ -255,30 +255,30 @@ header {
     margin-top: 3rem;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px)  and (orientation: portrait)  {
 .info {
     width: auto;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 .info p {
     font-size: 0.77rem;
     padding: 1rem;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 .info .title {
     width: 100%;
     max-width: 100%;
     text-align: center;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 footer {
     justify-content: center;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) and (orientation: portrait)  {
 footer div {
     display: none;
 }
